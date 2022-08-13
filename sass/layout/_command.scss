@@ -1,0 +1,25 @@
+.section-command {
+  background-color: var(--backgronud-button-color);
+}
+
+.name {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  color: var(--secondary-color);
+}
+
+.prof {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.18;
+  color: var(--main-color);
+  margin-bottom: 16px;
+}
+
+.name-prof {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
